@@ -1,42 +1,42 @@
-# 🛡️ Deriv Compliance Copilot
+# Deriv Compliance Copilot
 
-> **AI-Powered KYC Automation for Global Trading Platforms**  
-> Turn 2,000 weekly alerts into 50 high-confidence cases. Reduce 72-hour onboarding to 15 minutes.
+**AI-Powered KYC Automation for Global Trading Platforms**  
+Turn 2,000 weekly alerts into 50 high-confidence cases. Reduce 72-hour onboarding to 15 minutes.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-red?style=for-the-badge)](https://deriv-compliance.vercel.app)
 [![Hackathon](https://img.shields.io/badge/Deriv-AI%20Talent%20Sprint-blue?style=for-the-badge)](https://lablab.ai)
 
 ---
 
-## 📹 Demo Video
+## Demo Video
 
-![Demo Video](https://github.com/Tasfia-17/deriv-compliance/raw/main/public/demo/demo.gif)
+![Demo](./public/demo/demo.gif)
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Deriv processes **3 million traders** across **5 jurisdictions**. Their compliance team faces:
 
-- 📊 **2,000 false positive alerts** every week
-- ⏰ **72-hour onboarding delays** per trader
-- 💰 **$4.88M average breach cost** (industry standard)
-- 🌍 **Multi-jurisdiction complexity** (Malta, UAE, BVI, Vanuatu, Labuan)
+- 2,000 false positive alerts every week
+- 72-hour onboarding delays per trader
+- $4.88M average breach cost (industry standard)
+- Multi-jurisdiction complexity (Malta, UAE, BVI, Vanuatu, Labuan)
 
 **Manual compliance doesn't scale.**
 
 ---
 
-## 💡 Our Solution
+## Our Solution
 
 **Deriv Compliance Copilot** automates KYC verification using AI:
 
-- ✅ Upload documents → Instant AI analysis
-- ✅ Multi-jurisdiction compliance checking
-- ✅ Gap detection with severity levels
-- ✅ AI-powered document correction
-- ✅ Export corrected documents as PDF
-- ✅ 24/7 AI compliance assistant
+- Upload documents → Instant AI analysis
+- Multi-jurisdiction compliance checking
+- Gap detection with severity levels
+- AI-powered document correction
+- Export corrected documents as PDF
+- 24/7 AI compliance assistant
 
 ### Business Impact
 
@@ -49,7 +49,7 @@ Deriv processes **3 million traders** across **5 jurisdictions**. Their complian
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### Onboarding
 ![Onboarding](./public/demo/onboarding.webp)
@@ -65,7 +65,7 @@ Deriv processes **3 million traders** across **5 jurisdictions**. Their complian
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```mermaid
 graph TB
@@ -121,7 +121,7 @@ sequenceDiagram
 
 ---
 
-## 🚀 Features
+## Features
 
 ### 1. Organization Management
 - Create multiple workspaces
@@ -165,7 +165,7 @@ sequenceDiagram
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework**: Next.js 14 (App Router)
@@ -189,7 +189,7 @@ sequenceDiagram
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 deriv-compliance-copilot/
@@ -231,7 +231,7 @@ deriv-compliance-copilot/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+
@@ -281,7 +281,7 @@ npm start
 
 ---
 
-## 🎯 Usage Guide
+## Usage Guide
 
 ### Complete User Flow
 
@@ -338,7 +338,7 @@ npm start
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Test Documents
 
@@ -372,7 +372,7 @@ Sample KYC documents are provided in `/kyc-test-documents/`:
 
 ---
 
-## 🌍 Supported Jurisdictions
+## Supported Jurisdictions
 
 ### 1. MFSA (Malta Financial Services Authority)
 - Valid government-issued ID
@@ -409,7 +409,7 @@ Sample KYC documents are provided in `/kyc-test-documents/`:
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### Colors
 - **Primary**: `#FF444F` (Deriv Red)
@@ -430,7 +430,7 @@ Sample KYC documents are provided in `/kyc-test-documents/`:
 
 ---
 
-## 🔒 Security & Privacy
+## Security & Privacy
 
 - All documents encrypted at rest
 - Secure API endpoints
@@ -440,7 +440,7 @@ Sample KYC documents are provided in `/kyc-test-documents/`:
 
 ---
 
-## 📊 Performance
+## Performance
 
 - **Build Size**: 99.2 KB (First Load JS)
 - **API Response**: <2 seconds (including AI)
@@ -449,7 +449,7 @@ Sample KYC documents are provided in `/kyc-test-documents/`:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This project was built for the **Deriv AI Talent Sprint 2026** hackathon.
 
@@ -461,13 +461,13 @@ This project was built for the **Deriv AI Talent Sprint 2026** hackathon.
 
 ---
 
-## 📝 License
+## License
 
 MIT License - Open source for hackathon evaluation
 
 ---
 
-## 🏆 Hackathon Submission
+## Hackathon Submission
 
 ### Challenge Track
 **Compliance & Risk** - AI Compliance Manager
@@ -496,7 +496,7 @@ A production-ready AI-powered KYC automation platform that:
 
 ---
 
-## 📞 Contact
+## Contact
 
 - **GitHub**: [@Tasfia-17](https://github.com/Tasfia-17)
 - **Project**: [deriv-compliance](https://github.com/Tasfia-17/deriv-compliance)
@@ -504,7 +504,7 @@ A production-ready AI-powered KYC automation platform that:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Deriv** - For the AI Talent Sprint hackathon
 - **lablab.ai** - For hosting the event
