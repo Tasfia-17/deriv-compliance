@@ -517,8 +517,3 @@ A production-ready AI-powered KYC automation platform that:
 
 **Built with ❤️ for Deriv AI Talent Sprint 2026**
 
-*Transforming compliance from burden to competitive advantage*
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Tasfia-17/deriv-compliance)
-
-</div>
