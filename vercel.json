@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "env": {
+    "CEREBRAS_API_KEY": "csk-d864dvjcyj6v68fnpv8429fcpenktwmrwjd3885tnc9j36vh"
+  }
+}
